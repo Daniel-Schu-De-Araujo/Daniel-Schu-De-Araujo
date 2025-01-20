@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hello, Daniel here! 👋
 
-<!--
-**Daniel-Schu-De-Araujo/Daniel-Schu-De-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a beginner dev, but I have always loved technology and will keep learning and having fun along the way. I believe that loving what you do and the process of getting better at it is the best way to keep improving.
 
 Here are some ideas to get you started:
 
