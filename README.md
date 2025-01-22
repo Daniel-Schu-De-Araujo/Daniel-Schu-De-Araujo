@@ -7,8 +7,8 @@
 
 - I'm currently improving:  
 • Programming logic.  
-• Python.  
-| `Python` |
+• | `Python` | 
+
 - 
 
 
