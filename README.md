@@ -1,10 +1,16 @@
-## Hello, Daniel here! 👋
+## Hello, Daniel here! 👋  
 
-  I'm a beginner dev, but I have always loved technology and will keep learning and having fun along the way. I believe that loving what you do and the process of getting better at it is the best way to keep improving.
+  I'm a beginner dev, but I have always loved technology and will keep learning and having fun along the way. I believe that loving what you do and the process of getting better at it is the best way to keep improving, that's why I keep trying to fill the gaps in my knowledge, learning and evolving brings me sincere joy.
 
-Here are some ideas to get you started:
+  -----------------------
+## Learning, planning to learn, improving, etc.  
 
-- 🔭 I’m currently working on ...
+- I'm currently improving:
+• Programming logic.
+• Python.
+
+- 
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
