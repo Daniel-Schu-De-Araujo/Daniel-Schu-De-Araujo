@@ -1,4 +1,4 @@
-## Hello, Daniel here! 🐈🐕
+## Hello, Daniel here! 🐕
 
   I'm a beginner dev, but I have always loved technology and will keep learning and having fun along the way. I believe that loving what you do and the process of getting better at it is the best way to keep improving, that's why I keep trying to fill the gaps in my knowledge, learning and evolving brings me sincere joy.
 
