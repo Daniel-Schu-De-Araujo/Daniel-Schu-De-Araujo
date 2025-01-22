@@ -12,6 +12,6 @@
 - Planning to learn:  
 • `C`  
 
-![GitHub Contributions](https://img.shields.io/github/commit-activity/y/seu-usuario?style=flat)
+![GitHub Contributions](https://img.shields.io/github/commit-activity/y/Daniel-Schu-De-Araujo?style=flat)
 
 
