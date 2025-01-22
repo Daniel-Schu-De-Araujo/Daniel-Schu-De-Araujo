@@ -9,7 +9,8 @@
 • Programming logic.  
 • | `Python` | 
 
-- 
+- Planning to learn:
+• `C`
 
 
 - 👯 I’m looking to collaborate on ...
