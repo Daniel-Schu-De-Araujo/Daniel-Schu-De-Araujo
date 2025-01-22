@@ -5,7 +5,7 @@
   -----------------------
 ## Learning, planning to learn, improving, etc.  
 
-- I'm currently improving:  
+- I'm currently improving/learning:  
 • Programming logic.  
 •  `Python`  
 
