@@ -12,6 +12,6 @@
 - Planning to learn:  
 • `C`  
 
-![GitHub Contributions](https://img.shields.io/github/commit-activity/y/Daniel-Schu-De-Araujo?style=flat)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Schu-De-Araujo)](https://github.com/anuraghazra/github-readme-stats)
 
 
