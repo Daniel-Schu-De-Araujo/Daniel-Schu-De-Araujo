@@ -17,4 +17,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Schu-De-Araujo&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Schu-De-Araujo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
-  May we all keep learning, improving and evolving.
+  May we all keep learning, improving and evolving!
