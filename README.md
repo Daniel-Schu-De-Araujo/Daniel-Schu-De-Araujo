@@ -7,16 +7,11 @@
 
 - I'm currently improving:  
 • Programming logic.  
-• | `Python` | 
+•  `Python`  
 
-- Planning to learn:
-• `C`
+- Planning to learn:  
+• `C`  
+
+![GitHub Contributions](https://img.shields.io/github/commit-activity/y/seu-usuario?style=flat)
 
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
