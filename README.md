@@ -29,6 +29,7 @@
 - I'm currently improving/learning:  
 • Programming logic.  
 • `Python`.  
+• `Java`.
 
 - Planning to learn:  
 • `C`.  
