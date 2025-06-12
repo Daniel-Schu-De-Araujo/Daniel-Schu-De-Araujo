@@ -9,6 +9,7 @@
 - Estou, atualmente, melhorando/aprendendo:  
 • Lógica de programação.  
 • `Python`.  
+• `Java`.
 
 - Planejando aprender:  
 • `C`.  
